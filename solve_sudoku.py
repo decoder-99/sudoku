@@ -31,7 +31,7 @@ def parse_args():
     sudoku_puzzle = Sudoku(puzzle)
     goal_test = BoardTerminalTest()
 
-    print("Solution for Sudoku puzzle - {}".format(args.number_of_puzzle))
+    print("Solution for Sudoku puzzle - {}".format(args.puzzle_number))
     print("Oirignal puzzle")
     PuzzlePrinting.print_state(sudoku_puzzle)
     print("Solved puzzle")
