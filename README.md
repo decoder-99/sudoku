@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-SudokuSolver can find a solution to one of the most popular logic puzzle - Sudoku.
+SudokuSolver is a python package for solving Sudoku - one of the most popular logic puzzles.
 
 ## Algorithms
 
